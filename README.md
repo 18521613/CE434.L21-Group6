@@ -2,6 +2,7 @@
 ## Lab1 
 ## Setup Environment Install Ubuntu desktop
 ## Create GitHub Repo
+https://github.com/18521613/CE434.L21-18521613-18521068
 ## Install Python 3.6 or later 
 ## Install Opencv-Python Package
 ## Write a “Hello world” app 
