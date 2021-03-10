@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-# read from webcam or read video #Ex: cap = cv2.VideoCapture(outVideo.avi) 
+# read from webcam or read video #Ex: cap = cv2.VideoCapture('outVideo.avi') 
 cap = cv2.VideoCapture(0) 
 
 # get the frame
