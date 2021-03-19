@@ -10,5 +10,5 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_1/Hello_world.py
 ### Install ModelSim
 https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Modelsim.png
 ### Module convert RGB to Grayscale
-#### Preprocessing
-#### Create module convert RGB to Grayscale by Verilog
+### Preprocessing
+### Create module convert RGB to Grayscale by Verilog
