@@ -5,4 +5,4 @@ https://github.com/18521613/CE434.L21-18521613-18521068/blob/main/Version_Packag
 ### Create GitHub Repo
 https://github.com/18521613/CE434.L21-18521613-18521068
 ### Write a “Hello world” app 
-https://github.com/18521613/CE434.L21-18521613-18521068/blob/main/LAB1/Hello_world.py
+https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_1/Hello_world.py
