@@ -9,6 +9,9 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_1/Hello_world.py
 # Week2
 ### Install ModelSim
 https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Modelsim.png
-### Module convert RGB to Grayscale
-### Preprocessing
-### Create module convert RGB to Grayscale by Verilog
+### Conver RBG to binary using python
+https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/ConvertRGB2Binary.py
+### Module convert RGB to Grayscale 
+https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/rgb2grayscale.v
+### Testbench
+https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Lab1_tb.v
