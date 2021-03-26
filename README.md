@@ -6,7 +6,7 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_1/Version_Package.pn
 https://github.com/18521613/CE434.L21-Group6
 ### Write a “Hello world” app 
 https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_1/Hello_world.py
-# Week2
+## Week2
 ### Install ModelSim
 https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Modelsim.png
 ### Conver RBG to binary using python
@@ -14,4 +14,7 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/ConvertRGB2Binary.
 ### Module convert RGB to Grayscale 
 https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/rgb2grayscale.v
 ### Testbench
-https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Lab1_tb.v
+https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Lab1_tb.v4
+## Week3
+### RBG to Grayscale with pipeline
+
