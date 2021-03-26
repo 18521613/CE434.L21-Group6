@@ -19,3 +19,4 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Lab1_tb.v4
 ### Module convert RBG to Grayscale with pipeline
 https://github.com/18521613/CE434.L21-Group6/tree/main/WEEK_3
 ### Testbench
+https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_3/Lab2_tb.v
