@@ -16,5 +16,5 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/rgb2grayscale.v
 ### Testbench
 https://github.com/18521613/CE434.L21-Group6/blob/main/WEEK_2/Lab1_tb.v4
 ## Week3
-### RBG to Grayscale with pipeline
+### Module convert RBG to Grayscale with pipeline
 
