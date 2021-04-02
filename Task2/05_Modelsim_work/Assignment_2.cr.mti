@@ -1,0 +1,8 @@
+/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v {1 {vlog -work work -stats=none /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Lab2_tb
+
+Top level modules:
+	Lab2_tb
+
+} {} {}}

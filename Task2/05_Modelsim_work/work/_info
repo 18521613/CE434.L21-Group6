@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/tmt
+vLab2_tb
+!s110 1617337002
+!i10b 1
+!s100 =XKgobD:Af0aYC8AAYngc2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IX?P:Rl_b;J=`HR[T]W9If1
+Z1 d/home/tmt/CE434_L21_Group6/WEEK_3/05_Modelsim_work
+w1617336990
+8/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v
+F/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v
+!i122 28
+L0 3 61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z4 !s108 1617337001.000000
+!s107 /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@lab2_tb
+vRGB2GRAYSCALE_2
+!s110 1617337001
+!i10b 1
+!s100 A2_aZIKzYigd`JSC<E>W]1
+R0
+IMoQzVK^9dUES_7L56@Q`C1
+R1
+w1617336167
+8/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/02-Hdl/RGB2GRAYSCALE_2.v
+F/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/02-Hdl/RGB2GRAYSCALE_2.v
+!i122 27
+L0 1 98
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/02-Hdl/RGB2GRAYSCALE_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/02-Hdl/RGB2GRAYSCALE_2.v|
+!i113 1
+R5
+R6
+n@r@g@b2@g@r@a@y@s@c@a@l@e_2

@@ -1,0 +1,178 @@
+# Loading project Assignment_2
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# vsim work.Lab2_tb 
+# Start time: 10:43:22 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+quit -sim
+# End time: 10:45:37 on Apr 02,2021, Elapsed time: 0:02:15
+# Errors: 0, Warnings: 2
+vsim work.Lab2_tb
+# vsim work.Lab2_tb 
+# Start time: 10:45:51 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 10:49:01 on Apr 02,2021, Elapsed time: 0:03:10
+# Errors: 0, Warnings: 2
+# vsim work.Lab2_tb 
+# Start time: 10:49:01 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 10:49:51 on Apr 02,2021, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 2
+# vsim work.Lab2_tb 
+# Start time: 10:49:51 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 10:53:24 on Apr 02,2021, Elapsed time: 0:03:33
+# Errors: 0, Warnings: 2
+# vsim work.Lab2_tb 
+# Start time: 10:53:24 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+# ** Error (suppressible): (vsim-3389) Port 'rst' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Lab2_tb/dut File: /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v Line: 53
+# Error loading design
+# End time: 10:53:24 on Apr 02,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# vsim work.Lab2_tb 
+# Start time: 10:55:14 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 10:58:16 on Apr 02,2021, Elapsed time: 0:03:02
+# Errors: 0, Warnings: 3
+# vsim work.Lab2_tb 
+# Start time: 10:58:16 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 11:03:26 on Apr 02,2021, Elapsed time: 0:05:10
+# Errors: 0, Warnings: 4
+# vsim work.Lab2_tb 
+# Start time: 11:03:26 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'dut'.  Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /Lab2_tb/dut File: /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v Line: 53
+# ** Warning: (vsim-3722) /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(53): [TFMPC] - Missing connection for port 'rst'.
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 11:06:08 on Apr 02,2021, Elapsed time: 0:02:42
+# Errors: 0, Warnings: 4
+# vsim work.Lab2_tb 
+# Start time: 11:06:08 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 11:14:04 on Apr 02,2021, Elapsed time: 0:07:56
+# Errors: 0, Warnings: 2
+# vsim work.Lab2_tb 
+# Start time: 11:14:04 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/dut/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45
+# Compile of RGB2GRAYSCALE_2.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Lab2_tb
+# End time: 11:16:49 on Apr 02,2021, Elapsed time: 0:02:45
+# Errors: 0, Warnings: 2
+# vsim work.Lab2_tb 
+# Start time: 11:16:49 on Apr 02,2021
+# Loading work.Lab2_tb
+# Loading work.RGB2GRAYSCALE_2
+add wave -position insertpoint sim:/Lab2_tb/*
+run -all
+# ** Note: $finish    : /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v(45)
+#    Time: 32794220 ns  Iteration: 0  Instance: /Lab2_tb
+# 1
+# Break in Module Lab2_tb at /home/tmt/CE434_L21_Group6/WEEK_3/02_Designs/02_IP_core/03-Testbench/Lab2_tb.v line 45

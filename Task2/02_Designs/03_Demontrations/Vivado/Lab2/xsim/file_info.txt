@@ -1,0 +1,3 @@
+RGB2GRAYSCALE_2.v,verilog,xil_defaultlib,../../../../02_IP_core/02-Hdl/RGB2GRAYSCALE_2.v,
+Lab2_tb.v,verilog,xil_defaultlib,../../../../02_IP_core/03-Testbench/Lab2_tb.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
