@@ -21,3 +21,6 @@ https://github.com/18521613/CE434.L21-Group6/blob/main/Task2/02_Designs/06_Pytho
 https://github.com/18521613/CE434.L21-Group6/blob/main/Task2/02_Designs/06_Python/Compare.py
 ### Report
 https://github.com/18521613/CE434.L21-Group6/blob/main/Task2/04_Reports/Report-Task2.docx
+## Task3
+### Report about CNN
+https://github.com/18521613/CE434.L21-Group6/blob/main/Task3/Report.ppt
